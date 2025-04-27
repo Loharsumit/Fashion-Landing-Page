@@ -38,7 +38,7 @@ This is a fully responsive, modern, and functional single-page website designed 
 1. **Clone or Download** the Repository:
 
 ```bash
-git clone https://github.com/your-username/fashion-landing-page.git
+git clone https://github.com/Loharsumit/Fashion-Landing-Page.git
 ```
 Or simply download the ZIP and extract it.
 
@@ -51,6 +51,17 @@ cd fashion-landing-page
 3. **Open** the `index.html` file in your favorite browser!
 
 ---
+
+## 📷 Demo Screenshot
+
+| Desktop View | Mobile View |
+|:------------:|:-----------:|
+| ![image](https://github.com/user-attachments/assets/cbe536b1-c8a2-4d13-8b6a-05daf5f59e7e)
+) | ![image](https://github.com/user-attachments/assets/d910df49-4457-447b-95f2-8f0c2fa8c14c)
+ |
+
+---
+
 
 ## 📚 Technologies Used
 
@@ -76,8 +87,8 @@ cd fashion-landing-page
 
 If you have any questions or feedback:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: loharsumit693@gmail.com
+- GitHub: https://github.com/Loharsumit
 
 
 ## 🎯 Quick Start
